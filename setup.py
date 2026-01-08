@@ -33,7 +33,6 @@ setup(
 
     install_requires=[
         'torch>=1.0.0',
-        'torchvision',
         'numpy>=1.11',
         'pandas',
         'scikit-learn>=0.19.0',
